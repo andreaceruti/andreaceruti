@@ -11,6 +11,7 @@ My studies focus on artificial intelligence and robotics domain.
 - [Robotics course projects](https://github.com/andreaceruti/Robotics-polimi-course/blob/main/README.md)
 - [Adrenalina board game implementation](https://github.com/andreaalf97/ing-sw-2019-Alfieri-Carrioli-Ceruti/blob/master/README.md)
 - [implementation of a non-deterministic Turing machine](https://github.com/andreaceruti/MTND/blob/master/README.md)
+- [Requirement Engineering documents project](https://github.com/meme97/CarrioliCeruti/blob/master/README.md)
 
 ### :mailbox_with_no_mail: Contacts:
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) andreaceruti](https://www.linkedin.com/in/andrea-ceruti-017235174/)
