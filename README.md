@@ -1,6 +1,7 @@
 # Hi there 👋
-I am a Computer Science and Engineering student at Politecnico di Milano and I am **currently working on my Master Thesis about agricultural robotics and deep learning**. The pipeline of the project includes sensor installations on mobile robotic platform, in-field data acquisition, instance segmentation experiments on public/private datasets, multiple object tracking on detected objects and fruit volume estimation. 
-My academic studies focus on artificial intelligence and robotics domain and I will pursue these fields in the future. 
+I am a Computer Science and Engineering student at Politecnico di Milano with focus on artificial intelligence and machine learning.
+
+**Currently working on my Master Thesis about agricultural robotics and deep learning**. The pipeline of the project includes sensor installations on mobile robotic platform, in-field data acquisition, instance segmentation experiments on public/private datasets, multiple object tracking on detected objects and fruit volume estimation.  
 
 ### :mortar_board: Education:
 * Master of Science in Computer Science and Engineering at Politecnico di Milano  
